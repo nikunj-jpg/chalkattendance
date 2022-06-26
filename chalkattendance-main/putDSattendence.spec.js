@@ -371,8 +371,8 @@ xPath.set(
 mBool.set("2K19/CO/075 AREESHAA PARVEEN", false);
 
 async function startSelenium(
-    id = "ajaypal_2k19co036@dtu.ac.in",
-    password = "pass@123#",
+    id = "nikunjdahiya100@gmailcom",
+    password = "***",
     date,
     presentList = []
 ) {
